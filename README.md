@@ -1,7 +1,7 @@
 # Weibo-Posting-Bot
 worked in python 3
 
-i wrote this program for testing robots on weibo.
+i wrote this program for testing robots on weibo.  
 unfortunately weibo had closed some important api for posting and only left statuses/share, so i had to try a new way.
 
 instructions:
@@ -12,5 +12,5 @@ instructions:
 5. run the code, copy the link it returns and access it, then choose "authorizing" and copy the code part in the url
 6. paste the code back to the program, it will start posting in a moment
 
-the post content in the file is in stR and fullpic, the program would add your passport_url to stR automatically.
+the post content in the file is in stR and fullpic, the program would add your passport_url to stR automatically.  
 the pic posted should be under 5MB or may cause a fail.
