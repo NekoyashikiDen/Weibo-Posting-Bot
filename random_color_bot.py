@@ -46,7 +46,7 @@ if __name__ == '__main__':
                 break
             else:
                 count += 1
-                print('Posting succeeded! This is No.' + str(count) + '.'                ')
+                print('Posting succeeded! This is No.' + str(count) + '.                ')
                 fullpic.close()
                 pic += 1
                 
